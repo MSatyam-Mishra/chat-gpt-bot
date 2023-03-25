@@ -1,16 +1,6 @@
-# chat_gpt
+# Chat GPT Bot
 
-A new Flutter project.
+Chat Bot app is a built using OpenAI's cutting-edge GPT-3 language model. It is designed to understand natural language and respond to user queries in a human-like manner. This can be integrated seamlessly into a variety of platforms, such as websites and messaging applications.
 
-## Getting Started
+This app is made with the help of a tutorial from [codepur](https://www.youtube.com/watch?v=94JmNb1IhX0)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
