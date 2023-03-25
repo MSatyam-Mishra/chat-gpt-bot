@@ -63,7 +63,7 @@ class _ChatPageState extends State<ChatPage> {
         prompt: message.text, model: "text-davinci-003", maxTokens: 100);
     _subscription = openAI
         ?.build(
-          token: "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",
+          token: //add your token here,
         )
         .onCompletionStream(request: request)
         .listen((response) {
